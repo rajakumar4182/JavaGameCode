@@ -54,6 +54,8 @@ public class RockPaperScissorGame {
         else
             System.out.println("Computer wins");
 
+        System.out.println("-------Game End-----");
+
         sc.close();
     }
 }
